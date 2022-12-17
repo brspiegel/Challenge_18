@@ -7,6 +7,7 @@ streamlit, dataclass, typing(Any, List), datetime, pandas, hashlib
 ![](2.png)
 ![](3.png)
 ![](4.png)
+![](blockchain_validity.png)
 ## Instructions:
 Using terminal navigate to the folder containing pychain.py and enter "streamlit run pychain.py", this will open a seperate browser window where you will be able to add transactions to the blockchain!!!
 ### Created By:
